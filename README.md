@@ -1,2 +1,1 @@
-# .github
-The org readme repo
+# A tiny gophers community in UA 🇺🇦
